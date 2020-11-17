@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 4a496dc47432b284f9f545a88035161d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2126868097287033986
+    second: tilesheet_angelo_2_0
+  - first:
+      213: 277371116332803427
+    second: tilesheet_angelo_2_1
+  - first:
+      213: 3752075561261367785
+    second: tilesheet_angelo_2_2
+  - first:
+      213: 1109120908399923902
+    second: tilesheet_angelo_2_3
+  - first:
+      213: -5586974100316605908
+    second: tilesheet_angelo_2_4
+  - first:
+      213: 7520445560980165943
+    second: tilesheet_angelo_2_5
+  - first:
+      213: 2567356531230799360
+    second: tilesheet_angelo_2_6
+  - first:
+      213: 6822735613901865111
+    second: tilesheet_angelo_2_7
+  - first:
+      213: -7641272787576024311
+    second: tilesheet_angelo_2_8
+  - first:
+      213: -7377685799246610061
+    second: tilesheet_angelo_2_9
+  - first:
+      213: -2748590173451977202
+    second: tilesheet_angelo_2_10
+  - first:
+      213: -3662498947218752879
+    second: tilesheet_angelo_2_11
+  - first:
+      213: 7644821079724418384
+    second: tilesheet_angelo_2_12
+  - first:
+      213: 8951740543594123832
+    second: tilesheet_angelo_2_13
+  - first:
+      213: -688584510209812782
+    second: tilesheet_angelo_2_14
+  - first:
+      213: 7402183791848582295
+    second: tilesheet_angelo_2_15
+  - first:
+      213: 785607091659730107
+    second: tilesheet_angelo_2_16
+  - first:
+      213: -2338757750165830640
+    second: tilesheet_angelo_2_17
+  - first:
+      213: 2926652318955360867
+    second: tilesheet_angelo_2_18
+  - first:
+      213: 3543459126105951458
+    second: tilesheet_angelo_2_19
+  - first:
+      213: -3117069608671404599
+    second: tilesheet_angelo_2_20
+  - first:
+      213: -1507393137653674274
+    second: tilesheet_angelo_2_21
+  - first:
+      213: 7162295613218783182
+    second: tilesheet_angelo_2_22
+  - first:
+      213: -1819315666467869484
+    second: tilesheet_angelo_2_23
+  - first:
+      213: -1503990644156083229
+    second: tilesheet_angelo_2_24
+  - first:
+      213: 1090727972799353821
+    second: tilesheet_angelo_2_25
+  - first:
+      213: 1389656124173187397
+    second: tilesheet_angelo_2_26
+  - first:
+      213: 7736836051002311587
+    second: tilesheet_angelo_2_27
+  - first:
+      213: -6134358993881475308
+    second: tilesheet_angelo_2_28
+  - first:
+      213: 1315434476389743995
+    second: tilesheet_angelo_2_29
+  - first:
+      213: -5540249529720364481
+    second: tilesheet_angelo_2_30
+  - first:
+      213: -8975823543763601481
+    second: tilesheet_angelo_2_31
+  - first:
+      213: -256280936537267023
+    second: tilesheet_angelo_2_32
+  - first:
+      213: 3856944663832499327
+    second: tilesheet_angelo_2_33
+  - first:
+      213: -187130753372506753
+    second: tilesheet_angelo_2_34
+  - first:
+      213: 7492040917972402202
+    second: tilesheet_angelo_2_35
+  - first:
+      213: 3011214381320536439
+    second: tilesheet_angelo_2_36
+  - first:
+      213: -1728131081454120092
+    second: tilesheet_angelo_2_37
+  - first:
+      213: -5238861824177237857
+    second: tilesheet_angelo_2_38
+  - first:
+      213: -1076606687805336081
+    second: tilesheet_angelo_2_39
+  - first:
+      213: -7563111925719636391
+    second: tilesheet_angelo_2_40
+  - first:
+      213: 990308115495410159
+    second: tilesheet_angelo_2_41
+  - first:
+      213: 7155207209855675330
+    second: tilesheet_angelo_2_42
+  - first:
+      213: 1110059644807154678
+    second: tilesheet_angelo_2_43
+  - first:
+      213: 8700465033539603107
+    second: tilesheet_angelo_2_44
+  - first:
+      213: 7509353165380445831
+    second: tilesheet_angelo_2_45
+  - first:
+      213: -628995563228945501
+    second: tilesheet_angelo_2_46
+  - first:
+      213: 6789694688278236150
+    second: tilesheet_angelo_2_47
+  - first:
+      213: -3090438099360507365
+    second: tilesheet_angelo_2_48
+  - first:
+      213: 7435842722154105979
+    second: tilesheet_angelo_2_49
+  - first:
+      213: 3191042960245397546
+    second: tilesheet_angelo_2_50
+  - first:
+      213: 8621309381660824587
+    second: tilesheet_angelo_2_51
+  - first:
+      213: 6172884814724433210
+    second: tilesheet_angelo_2_52
+  - first:
+      213: -1487622653256444631
+    second: tilesheet_angelo_2_53
+  - first:
+      213: -4712653490054505017
+    second: tilesheet_angelo_2_54
+  - first:
+      213: -72468214034896280
+    second: tilesheet_angelo_2_55
+  - first:
+      213: -1358394864464391501
+    second: tilesheet_angelo_2_56
+  - first:
+      213: 608134597675039931
+    second: tilesheet_angelo_2_57
+  - first:
+      213: 1374880404166424867
+    second: tilesheet_angelo_2_58
+  - first:
+      213: 8082294667290620786
+    second: tilesheet_angelo_2_59
+  - first:
+      213: -8299604775883049466
+    second: tilesheet_angelo_2_60
+  - first:
+      213: 5608835008721587202
+    second: tilesheet_angelo_2_61
+  - first:
+      213: -5113360717425906509
+    second: tilesheet_angelo_2_62
+  - first:
+      213: -1606169100572737370
+    second: tilesheet_angelo_2_63
+  - first:
+      213: -4904894294600672852
+    second: tilesheet_angelo_2_64
+  - first:
+      213: 8319336660065562908
+    second: tilesheet_angelo_2_65
+  - first:
+      213: 5783947862690992033
+    second: tilesheet_angelo_2_66
+  - first:
+      213: -6907192450743259564
+    second: tilesheet_angelo_2_67
+  - first:
+      213: -6974746408100552744
+    second: tilesheet_angelo_2_68
+  - first:
+      213: -4482443196277500789
+    second: tilesheet_angelo_2_69
+  - first:
+      213: 4255766953430769887
+    second: tilesheet_angelo_2_70
+  - first:
+      213: -5621046840187141760
+    second: tilesheet_angelo_2_71
+  - first:
+      213: -4564943925928666027
+    second: tilesheet_angelo_2_72
+  - first:
+      213: 604121016985808746
+    second: tilesheet_angelo_2_73
+  - first:
+      213: -8407783034034912189
+    second: tilesheet_angelo_2_74
+  - first:
+      213: -4377702613548619306
+    second: tilesheet_angelo_2_75
+  - first:
+      213: 2539410977883556586
+    second: tilesheet_angelo_2_76
+  - first:
+      213: 2544477909611198955
+    second: tilesheet_angelo_2_77
+  - first:
+      213: 4355919167886836900
+    second: tilesheet_angelo_2_78
+  - first:
+      213: -1017107377908241906
+    second: tilesheet_angelo_2_79
+  - first:
+      213: -9011666298621620005
+    second: tilesheet_angelo_2_80
+  - first:
+      213: 2109492502093510330
+    second: tilesheet_angelo_2_81
+  - first:
+      213: -12161674808923450
+    second: tilesheet_angelo_2_82
+  - first:
+      213: 342812002203977371
+    second: tilesheet_angelo_2_83
+  - first:
+      213: -8776382456533714031
+    second: tilesheet_angelo_2_84
+  - first:
+      213: -5076510059547133891
+    second: tilesheet_angelo_2_85
+  - first:
+      213: -1881620168560297493
+    second: tilesheet_angelo_2_86
+  - first:
+      213: -418197618811025983
+    second: tilesheet_angelo_2_87
+  - first:
+      213: -9164344958386856348
+    second: tilesheet_angelo_2_88
+  - first:
+      213: -2829788075919747520
+    second: tilesheet_angelo_2_89
+  - first:
+      213: -1499981886834660621
+    second: tilesheet_angelo_2_90
+  - first:
+      213: -183830500632734029
+    second: tilesheet_angelo_2_91
+  - first:
+      213: -1480161726832770539
+    second: tilesheet_angelo_2_92
+  - first:
+      213: 2554653413477532561
+    second: tilesheet_angelo_2_93
+  - first:
+      213: 1014402311391992273
+    second: tilesheet_angelo_2_94
+  - first:
+      213: -1225562272111698928
+    second: tilesheet_angelo_2_95
+  - first:
+      213: -1940656328150107584
+    second: tilesheet_angelo_2_96
+  - first:
+      213: -172557122948566700
+    second: tilesheet_angelo_2_97
+  - first:
+      213: -7972826655632255191
+    second: tilesheet_angelo_2_98
+  - first:
+      213: -6613408916838912343
+    second: tilesheet_angelo_2_99
+  - first:
+      213: 6631691069674074768
+    second: tilesheet_angelo_2_100
+  - first:
+      213: -8035343623922220957
+    second: tilesheet_angelo_2_101
+  - first:
+      213: 2377228477737134723
+    second: tilesheet_angelo_2_102
+  - first:
+      213: 7216047422970140139
+    second: tilesheet_angelo_2_103
+  - first:
+      213: -8962671795242012937
+    second: tilesheet_angelo_2_104
+  - first:
+      213: -3025735635167298909
+    second: tilesheet_angelo_2_105
+  - first:
+      213: 4565701673741044391
+    second: tilesheet_angelo_2_106
+  - first:
+      213: -3092408189900912492
+    second: tilesheet_angelo_2_107
+  - first:
+      213: -7690914417832956717
+    second: tilesheet_angelo_2_108
+  - first:
+      213: 4776926205683171748
+    second: tilesheet_angelo_2_109
+  - first:
+      213: -6645674280346254257
+    second: tilesheet_angelo_2_110
+  - first:
+      213: -2375180291833071396
+    second: tilesheet_angelo_2_111
+  - first:
+      213: 3679053392740112228
+    second: tilesheet_angelo_2_112
+  - first:
+      213: 3564465574211355908
+    second: tilesheet_angelo_2_113
+  - first:
+      213: 747536133274649710
+    second: tilesheet_angelo_2_114
+  - first:
+      213: 1060588376779658017
+    second: tilesheet_angelo_2_115
+  - first:
+      213: 4989482297648985265
+    second: tilesheet_angelo_2_116
+  - first:
+      213: -1123543726084446693
+    second: tilesheet_angelo_2_117
+  - first:
+      213: 4095584338697047280
+    second: tilesheet_angelo_2_118
+  - first:
+      213: -3618421723808657810
+    second: tilesheet_angelo_2_119
+  - first:
+      213: -7001225184204320112
+    second: tilesheet_angelo_2_120
+  - first:
+      213: -2908330318374784238
+    second: tilesheet_angelo_2_121
+  - first:
+      213: 4171900961931554448
+    second: tilesheet_angelo_2_122
+  - first:
+      213: -1560338655099298903
+    second: tilesheet_angelo_2_123
+  - first:
+      213: 5383316838193704117
+    second: tilesheet_angelo_2_124
+  - first:
+      213: -5219579499896207436
+    second: tilesheet_angelo_2_125
+  - first:
+      213: 4198245385019256795
+    second: tilesheet_angelo_2_126
+  - first:
+      213: 6628078244177514153
+    second: tilesheet_angelo_2_127
+  - first:
+      213: -4199616615671893161
+    second: tilesheet_angelo_2_128
+  - first:
+      213: 6981277617556277384
+    second: tilesheet_angelo_2_129
+  - first:
+      213: -8800351890293246368
+    second: tilesheet_angelo_2_130
+  - first:
+      213: 1199368057255144
+    second: tilesheet_angelo_2_131
+  - first:
+      213: -8597447643423638334
+    second: tilesheet_angelo_2_132
+  - first:
+      213: -4305157065559832800
+    second: tilesheet_angelo_2_133
+  - first:
+      213: -267369736019867114
+    second: tilesheet_angelo_2_134
+  - first:
+      213: 2160058174483148557
+    second: tilesheet_angelo_2_135
+  - first:
+      213: 438247597513819336
+    second: tilesheet_angelo_2_136
+  - first:
+      213: 8316035983834815099
+    second: tilesheet_angelo_2_137
+  - first:
+      213: 1054153451913056994
+    second: tilesheet_angelo_2_138
+  - first:
+      213: -3448872010379792042
+    second: tilesheet_angelo_2_139
+  - first:
+      213: 8780077998164215280
+    second: tilesheet_angelo_2_140
+  - first:
+      213: 8303121023665049389
+    second: tilesheet_angelo_2_141
+  - first:
+      213: -5609673261277866873
+    second: tilesheet_angelo_2_142
+  - first:
+      213: -6479270539821116812
+    second: tilesheet_angelo_2_143
+  - first:
+      213: 6583520376895412266
+    second: tilesheet_angelo_2_144
+  - first:
+      213: 2204048933515501170
+    second: tilesheet_angelo_2_145
+  - first:
+      213: 6436648465826034658
+    second: tilesheet_angelo_2_146
+  - first:
+      213: 4389599750452746989
+    second: tilesheet_angelo_2_147
+  - first:
+      213: 1892840127761765104
+    second: tilesheet_angelo_2_148
+  - first:
+      213: 3222893208935514869
+    second: tilesheet_angelo_2_149
+  - first:
+      213: 8500454058177262553
+    second: tilesheet_angelo_2_150
+  - first:
+      213: 69697335258923330
+    second: tilesheet_angelo_2_151
+  - first:
+      213: -1081156697067078179
+    second: tilesheet_angelo_2_152
+  - first:
+      213: 129122513475881086
+    second: tilesheet_angelo_2_153
+  - first:
+      213: 3836104516846282254
+    second: tilesheet_angelo_2_0
+  - first:
+      213: 6268204967175782723
+    second: tilesheet_angelo_2_1
+  - first:
+      213: -8088419769566744523
+    second: tilesheet_angelo_2_2
+  - first:
+      213: -4582714954498956415
+    second: tilesheet_angelo_2_3
+  - first:
+      213: 2763365277937540136
+    second: tilesheet_angelo_2_4
+  - first:
+      213: 6975895713868945339
+    second: tilesheet_angelo_2_5
+  - first:
+      213: -9171800815171513717
+    second: tilesheet_angelo_2_6
+  - first:
+      213: -2092931809983064705
+    second: tilesheet_angelo_2_7
+  - first:
+      213: -8023301004176050637
+    second: tilesheet_angelo_2_8
+  - first:
+      213: 5882242245925082542
+    second: tilesheet_angelo_2_9
+  - first:
+      213: -735814331703472825
+    second: tilesheet_angelo_2_10
+  - first:
+      213: 5891963017767802753
+    second: tilesheet_angelo_2_11
+  - first:
+      213: 1273089706030788271
+    second: tilesheet_angelo_2_12
+  - first:
+      213: 8088526071383262027
+    second: tilesheet_angelo_2_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e4e7cbb49c3530800000000000000
+      internalID: 3836104516846282254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3410adf05332df650800000000000000
+      internalID: 6268204967175782723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303ab8e21920cf80800000000000000
+      internalID: -8088419769566744523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832836770de660c0800000000000000
+      internalID: -4582714954498956415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9d105412795620800000000000000
+      internalID: 2763365277937540136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7145f113c5fc060800000000000000
+      internalID: 6975895713868945339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82501db0c737b080800000000000000
+      internalID: -9171800815171513717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7518de8b9964f2e0800000000000000
+      internalID: -2092931809983064705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3363d08fe3287a090800000000000000
+      internalID: -8023301004176050637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5192f382ce1a150800000000000000
+      internalID: 5882242245925082542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4c2a83ccd9c5f0800000000000000
+      internalID: -735814331703472825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d9cfc52574c150800000000000000
+      internalID: 5891963017767802753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeeb2fa75ceaa110800000000000000
+      internalID: 1273089706030788271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilesheet_angelo_2_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4309496b97304070800000000000000
+      internalID: 8088526071383262027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
